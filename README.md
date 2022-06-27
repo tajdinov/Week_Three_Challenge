@@ -9,8 +9,8 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-* [GitHub Repository]()
-* [Deployed GitHub IO]()
+* [GitHub Repository](https://github.com/tajdinov/Week_Three_Challenge.git)
+* [Deployed GitHub IO](https://tajdinov.github.io/Week_Three_Challenge/)
 
 ### Prerequisites
 
